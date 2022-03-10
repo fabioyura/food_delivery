@@ -30,7 +30,11 @@ class _MainFoodPageState extends State<MainFoodPage> {
               children: [
                 Column(
                   children: [
-                    BigText(text: "Brazil", color: AppColors.mainColor),
+                    BigText(
+                      text: "Brazil",
+                      color: AppColors.mainColor,
+                      size: 24,
+                    ),
                     Row(
                       children: [
                         SmallText(
@@ -60,7 +64,7 @@ class _MainFoodPageState extends State<MainFoodPage> {
             ),
           ),
           //           <------ EXIBIR O BODY ------>
-          FoodPageBody(),
+          Expanded(child: SingleChildScrollView(child: FoodPageBody())),
         ],
       ),
     );
