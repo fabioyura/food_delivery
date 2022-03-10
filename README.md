@@ -8,5 +8,7 @@ Você pode acompanhar todo o processo neste repositório.
 Já havia feito esse 'carrossel' usando apenas o PageView conforme o projeto: https://github.com/fabioyura/MyFirstApp
 Desta vez, de modo que possa aprender a ter o mesmo resultado usando outros métodos. Aprendi o uso da Matrix4.
 
+2° **Segundo commit**: Finalizando HomePage utilizando SingleScrollChild e ListView builder para desenhar a seção de Lista de comidas. E algumas alterações nas dimensões para responsividade
 
-![food](https://user-images.githubusercontent.com/87349194/157573440-d7443f6d-34ef-4853-9245-32828fed5cb9.png)
+
+https://user-images.githubusercontent.com/87349194/157740766-de72694d-f11a-430e-8c77-32f15f0f5173.mp4
