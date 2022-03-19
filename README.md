@@ -10,5 +10,7 @@ Desta vez, de modo que possa aprender a ter o mesmo resultado usando outros mét
 
 2° **Segundo commit**: Finalizando HomePage utilizando SingleScrollChild e ListView builder para desenhar a seção de Lista de comidas. E algumas alterações nas dimensões para responsividade
 
+3° **Terceiro commit**: Finalizando a Página: Detalhes de Comidas Populares
+
 
 https://user-images.githubusercontent.com/87349194/157740766-de72694d-f11a-430e-8c77-32f15f0f5173.mp4
